@@ -1,4 +1,4 @@
-module memory_cell (               //  vsim memory_cell
+module memory_cell (               
 input clk ,
 input reset_n ,
 input select ,
