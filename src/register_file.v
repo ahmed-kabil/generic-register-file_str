@@ -44,6 +44,6 @@ genvar k;
      end
 endgenerate
 
-assign out_data = storage[read_addres] ;
+  assign out_data = storage[read_address] ;
 
 endmodule
